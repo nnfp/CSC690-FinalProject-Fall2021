@@ -11,7 +11,7 @@ My application proposal is a cataloging app for users to present their general t
 - Access a database to visit official media
 - Search through tags
 ### Create some basic wire-frames for your main feature
-![Wire Frame 1](https://github.com/nnfp/CSC690-FinalProject-Fall2021/blob/main/wire-frame1.png?raw=true)
+![Wire Frame 1](https://github.com/nnfp/CSC690-FinalProject-Fall2021/blob/main/images/wire-frame1.png?raw=true)
 ## Milestone 2: Prototype
 ### Estimate how much work each feature will take to implement (in hours)
 - Creating the base entry for a review - 2 hours
