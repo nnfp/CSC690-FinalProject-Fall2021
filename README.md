@@ -1,4 +1,4 @@
-# CSC690FinalProjectFall2020
+# CSC690FinalProjectFall2021
 
 ## Kino List
 An application to record movies, films, and shows. You can add in your ratings, progress, status (ex. Watching/Planned to Watch). You can see a statistics profile to see how many entries you have added and your average ratings.
